@@ -1,2 +1,2 @@
 # RESTful-API-FastAPI
-RESTful API using FastAPI framework
+A basic example of a RESTful API using FastAPI framework
